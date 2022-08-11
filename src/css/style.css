@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: rgb(39, 39, 39);
+}
+
+.navbar {
+    /* margin: 20px; */
+    padding: 30px;
+    text-align: center;
+    background:rgb(235, 235, 235);
+    width: 100%;
+    position: fixed;
+
+    box-shadow: 1px 0px 80px -4px rgba(0,0,0,0.46);
+    -webkit-box-shadow: 1px 0px 80px -4px rgba(0,0,0,0.46);
+    -moz-box-shadow: 1px 0px 80px -4px rgba(0,0,0,0.46);
+
+
+
+}
+
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.navbar-item {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.icon {
+    width: 30px;
+}
